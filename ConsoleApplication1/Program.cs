@@ -21,6 +21,7 @@ namespace ConsoleApplication1
                 new Model(){Id=12,Name = "赵六"},
                 new Model(){Id=34,Name = "赵六"},
                 new Model(){Id=31,Name = "赵六"},
+                new Model(){Id=31,Name = "第一次修改Git"},
             };
 
             List<int> whereList = new List<int>() { 1, 3 };
